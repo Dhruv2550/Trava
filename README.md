@@ -4,7 +4,7 @@
 
 ---
 
-## 🧱 Project Overview
+## Project Overview
 
 - **Database**: MySQL (11 tables, 3rd Normal Form)
 - **Interface**: Python with PyMySQL
@@ -15,7 +15,7 @@
 
 ---
 
-## 📘 Key Entities
+## Key Entities
 
 - `user` – Stores customer profiles and contact info  
 - `trip` – Contains travel details such as dates and types  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **MySQL** – For the relational database
 - **PyMySQL** – Python MySQL connector
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
